@@ -24,5 +24,6 @@ Instructions on Installing and running java application:
 
 ### 2. Java
 1. Running compile.sh compiles your code in src.
-2. Running run.sh executes src code with inputs dbname, port, user
+2. Running run.sh executes src code with inputs dbname, port, user.
+
 example: run.sh flightDB 7432 hbae003?
